@@ -53,13 +53,13 @@ Loomora-The-Shopping-Website/
 
 The Loomora Home Page provides an attractive shopping interface with navigation, hero section, product categories, and featured products.
 
-![Loomora Home Page](Screenshots/home.png)
+![Loomora Home Page](Screenshots/Home.png)
 
 ### 🆕 New Arrivals
 
 The New Arrivals page displays recently added products in a clean and responsive product-card layout.
 
-![Loomora New Arrivals](Screenshots/new-arrivals.png)
+![Loomora New Arrivals](Screenshots/Products.png)
 
 ## 🚀 Getting Started
 
